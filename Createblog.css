@@ -1,0 +1,45 @@
+.crp-page{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.crp-main{
+    padding: 5px 5px;
+}
+.crp-tit{
+    margin-top: 60px;
+    color: blue;
+}
+.crp-frm input{
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid orangered;
+    outline: none;
+    padding: 5px 0;
+}
+.crp-len{
+    margin-left: 90%;
+}
+.crp-bt1{
+    border: none;
+    outline: none;
+    color: orangered;
+    background: none;
+}
+.crp-bt2{
+    border: none;
+    outline: none;
+    background: none;
+}
+.crp-bt3{
+    border: none;
+    outline: none;
+    color: orangered;
+    background: none;
+}
+.com-bt{
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
